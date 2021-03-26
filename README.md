@@ -2,7 +2,7 @@
 
 Google Earth Engine implementation of algorithms for producing Level 2b Vegetation Biophysical Parameter maps for Canada.
 
-Current Biophsyical Parameters are:
+Current Biophysical Parameters are:
 
 Fraction of Absorbed Photosynthetically Active Radiation
 Fraction of Canopy Cover
