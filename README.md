@@ -22,14 +22,14 @@ Attribution for code and archived products are provided in readme files in their
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]
- unless supersceded by the [Government of Canada's Directive on Open Government][gc-by].
+ unless supersceded by the [Government of Canada's Open Government License][gc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-[gc-by]: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108
+[gc-by]: https://open.canada.ca/en/open-government-licence-canada
 
 
 
